@@ -1,0 +1,17 @@
+{
+  "title": "Done Space",
+  "description": "A minimalist task management app that helps users organize to-dos, track priorities, and stay focused on daily goals.",
+  "icons": {
+    "icon": "/icons/favicon-32.png"
+  },
+  "customScripts": {
+    "headEnd": "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/icons/ios/AppIcon.appiconset/app-icon-180.png\"><link rel=\"manifest\" href=\"/manifest.webmanifest\"><meta name=\"theme-color\" content=\"#100f17\">"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
